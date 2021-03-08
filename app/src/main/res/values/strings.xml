@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="cover_description">Cover Image</string>
+    <string name="profile">Profile</string>
+    <string name="detail_title">Title:</string>
+    <string name="detail_author">Author:</string>
+    <string name="detail_publish_year">Publish Year:</string>
+    <string name="detail_synopsis">Synopsis</string>
+    <string name="profile_name">Devian Wahyu</string>
+    <string name="profile_email">devianwahyu666@gmail.com</string>
+    <string name="splash_title">Books</string>
+</resources>
